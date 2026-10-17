@@ -1,0 +1,89 @@
+﻿method,scenario,speaker,n,correct,accuracy
+DTW + F0,A,TẤT CẢ,1000,993,0.9930
+DTW + F0,A,tts_f1_p0,100,100,1.0000
+DTW + F0,A,tts_f1_p1,100,100,1.0000
+DTW + F0,A,tts_f1_p2,100,100,1.0000
+DTW + F0,A,tts_f1_p3,100,99,0.9900
+DTW + F0,A,tts_f1_p4,100,98,0.9800
+DTW + F0,A,tts_m1_p0,100,100,1.0000
+DTW + F0,A,tts_m1_p1,100,100,1.0000
+DTW + F0,A,tts_m1_p2,100,100,1.0000
+DTW + F0,A,tts_m1_p3,100,97,0.9700
+DTW + F0,A,tts_m1_p4,100,99,0.9900
+DTW + F0,B,TẤT CẢ,1000,509,0.5090
+DTW + F0,B,tts_f1_p0,100,62,0.6200
+DTW + F0,B,tts_f1_p1,100,46,0.4600
+DTW + F0,B,tts_f1_p2,100,64,0.6400
+DTW + F0,B,tts_f1_p3,100,25,0.2500
+DTW + F0,B,tts_f1_p4,100,69,0.6900
+DTW + F0,B,tts_m1_p0,100,49,0.4900
+DTW + F0,B,tts_m1_p1,100,63,0.6300
+DTW + F0,B,tts_m1_p2,100,35,0.3500
+DTW + F0,B,tts_m1_p3,100,67,0.6700
+DTW + F0,B,tts_m1_p4,100,29,0.2900
+DTW không F0,A,TẤT CẢ,1000,995,0.9950
+DTW không F0,A,tts_f1_p0,100,100,1.0000
+DTW không F0,A,tts_f1_p1,100,100,1.0000
+DTW không F0,A,tts_f1_p2,100,100,1.0000
+DTW không F0,A,tts_f1_p3,100,99,0.9900
+DTW không F0,A,tts_f1_p4,100,98,0.9800
+DTW không F0,A,tts_m1_p0,100,100,1.0000
+DTW không F0,A,tts_m1_p1,100,100,1.0000
+DTW không F0,A,tts_m1_p2,100,100,1.0000
+DTW không F0,A,tts_m1_p3,100,98,0.9800
+DTW không F0,A,tts_m1_p4,100,100,1.0000
+DTW không F0,B,TẤT CẢ,1000,487,0.4870
+DTW không F0,B,tts_f1_p0,100,62,0.6200
+DTW không F0,B,tts_f1_p1,100,46,0.4600
+DTW không F0,B,tts_f1_p2,100,62,0.6200
+DTW không F0,B,tts_f1_p3,100,20,0.2000
+DTW không F0,B,tts_f1_p4,100,65,0.6500
+DTW không F0,B,tts_m1_p0,100,46,0.4600
+DTW không F0,B,tts_m1_p1,100,72,0.7200
+DTW không F0,B,tts_m1_p2,100,26,0.2600
+DTW không F0,B,tts_m1_p3,100,70,0.7000
+DTW không F0,B,tts_m1_p4,100,18,0.1800
+SVM,A,TẤT CẢ,1000,991,0.9910
+SVM,A,tts_f1_p0,100,100,1.0000
+SVM,A,tts_f1_p1,100,100,1.0000
+SVM,A,tts_f1_p2,100,100,1.0000
+SVM,A,tts_f1_p3,100,97,0.9700
+SVM,A,tts_f1_p4,100,97,0.9700
+SVM,A,tts_m1_p0,100,100,1.0000
+SVM,A,tts_m1_p1,100,100,1.0000
+SVM,A,tts_m1_p2,100,100,1.0000
+SVM,A,tts_m1_p3,100,98,0.9800
+SVM,A,tts_m1_p4,100,99,0.9900
+SVM,B,TẤT CẢ,1000,440,0.4400
+SVM,B,tts_f1_p0,100,38,0.3800
+SVM,B,tts_f1_p1,100,40,0.4000
+SVM,B,tts_f1_p2,100,50,0.5000
+SVM,B,tts_f1_p3,100,20,0.2000
+SVM,B,tts_f1_p4,100,56,0.5600
+SVM,B,tts_m1_p0,100,54,0.5400
+SVM,B,tts_m1_p1,100,69,0.6900
+SVM,B,tts_m1_p2,100,30,0.3000
+SVM,B,tts_m1_p3,100,64,0.6400
+SVM,B,tts_m1_p4,100,19,0.1900
+Random Forest,A,TẤT CẢ,1000,987,0.9870
+Random Forest,A,tts_f1_p0,100,100,1.0000
+Random Forest,A,tts_f1_p1,100,98,0.9800
+Random Forest,A,tts_f1_p2,100,99,0.9900
+Random Forest,A,tts_f1_p3,100,98,0.9800
+Random Forest,A,tts_f1_p4,100,100,1.0000
+Random Forest,A,tts_m1_p0,100,99,0.9900
+Random Forest,A,tts_m1_p1,100,99,0.9900
+Random Forest,A,tts_m1_p2,100,99,0.9900
+Random Forest,A,tts_m1_p3,100,97,0.9700
+Random Forest,A,tts_m1_p4,100,98,0.9800
+Random Forest,B,TẤT CẢ,1000,468,0.4680
+Random Forest,B,tts_f1_p0,100,40,0.4000
+Random Forest,B,tts_f1_p1,100,37,0.3700
+Random Forest,B,tts_f1_p2,100,62,0.6200
+Random Forest,B,tts_f1_p3,100,25,0.2500
+Random Forest,B,tts_f1_p4,100,60,0.6000
+Random Forest,B,tts_m1_p0,100,45,0.4500
+Random Forest,B,tts_m1_p1,100,61,0.6100
+Random Forest,B,tts_m1_p2,100,33,0.3300
+Random Forest,B,tts_m1_p3,100,72,0.7200
+Random Forest,B,tts_m1_p4,100,33,0.3300

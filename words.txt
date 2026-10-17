@@ -1,0 +1,21 @@
+# mã không dấu,từ có dấu  (mã là khóa trong tên file, không chứa dấu gạch dưới)
+khong,không
+mot,một
+hai,hai
+ba,ba
+bon,bốn
+nam,năm
+sau,sáu
+bay,bảy
+tam,tám
+chin,chín
+bat,bật
+tat,tắt
+mo,mở
+dong,đóng
+trai,trái
+phai,phải
+len,lên
+xuong,xuống
+dung,dừng
+chay,chạy

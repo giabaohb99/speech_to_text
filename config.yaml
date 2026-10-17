@@ -1,0 +1,57 @@
+audio:
+  sample_rate: 16000
+  frame_ms: 25
+  hop_ms: 10
+  min_duration_s: 0.3
+  max_duration_s: 2.5
+
+preprocess:
+  preemphasis: 0.97
+  energy_margin_db: 6
+  pad_ms: 50
+  min_voiced_ms: 80    # chữ "tắt" đọc nhanh chỉ khoảng 115 ms có tiếng
+
+features:
+  n_mfcc: 13
+  n_mels: 40
+  n_fft: 512
+  f0_min: 70
+  f0_max: 400
+  f0_weight: 2.0
+  cmn: false           # trừ trung bình MFCC theo từng file trước khi so khớp
+
+dtw:
+  band_ratio: 0.10
+  band_min_frames: 5
+
+knn:
+  k: 5
+  low_confidence: 0.4
+
+gen_data:
+  voices:              # mã giọng gốc -> giọng edge-tts
+    f1: vi-VN-HoaiMyNeural
+    m1: vi-VN-NamMinhNeural
+  variants:            # [dịch cao độ (nửa cung), hệ số độ dài]; mỗi dòng là một "người"
+    - [0, 1.00]
+    - [2, 0.92]
+    - [-2, 1.08]
+    - [4, 1.00]
+    - [-3, 0.95]
+  samples_per_variant: 5
+  jitter_semitones: 0.3  # lệch cao độ ngẫu nhiên giữa các lần đọc của cùng một người
+  jitter_time: 0.03      # lệch tốc độ ngẫu nhiên, tỷ lệ
+  snr_db: [20, 35]
+  shift_ms: [0, 80]
+  gain: [0.7, 1.0]
+  seed: 42
+
+record:
+  seconds: 2.0
+  repeats: 5
+
+paths:
+  raw: data/raw
+  tts_cache: data/tts_cache
+  features: data/features
+  results: results

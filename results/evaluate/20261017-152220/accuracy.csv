@@ -1,0 +1,45 @@
+﻿method,scenario,speaker,n,correct,accuracy
+DTW + F0,A,TẤT CẢ,1000,993,0.9930
+DTW + F0,A,tts_f1_p0,100,100,1.0000
+DTW + F0,A,tts_f1_p1,100,100,1.0000
+DTW + F0,A,tts_f1_p2,100,100,1.0000
+DTW + F0,A,tts_f1_p3,100,99,0.9900
+DTW + F0,A,tts_f1_p4,100,98,0.9800
+DTW + F0,A,tts_m1_p0,100,100,1.0000
+DTW + F0,A,tts_m1_p1,100,100,1.0000
+DTW + F0,A,tts_m1_p2,100,100,1.0000
+DTW + F0,A,tts_m1_p3,100,97,0.9700
+DTW + F0,A,tts_m1_p4,100,99,0.9900
+DTW + F0,B,TẤT CẢ,1000,509,0.5090
+DTW + F0,B,tts_f1_p0,100,62,0.6200
+DTW + F0,B,tts_f1_p1,100,46,0.4600
+DTW + F0,B,tts_f1_p2,100,64,0.6400
+DTW + F0,B,tts_f1_p3,100,25,0.2500
+DTW + F0,B,tts_f1_p4,100,69,0.6900
+DTW + F0,B,tts_m1_p0,100,49,0.4900
+DTW + F0,B,tts_m1_p1,100,63,0.6300
+DTW + F0,B,tts_m1_p2,100,35,0.3500
+DTW + F0,B,tts_m1_p3,100,67,0.6700
+DTW + F0,B,tts_m1_p4,100,29,0.2900
+DTW không F0,A,TẤT CẢ,1000,995,0.9950
+DTW không F0,A,tts_f1_p0,100,100,1.0000
+DTW không F0,A,tts_f1_p1,100,100,1.0000
+DTW không F0,A,tts_f1_p2,100,100,1.0000
+DTW không F0,A,tts_f1_p3,100,99,0.9900
+DTW không F0,A,tts_f1_p4,100,98,0.9800
+DTW không F0,A,tts_m1_p0,100,100,1.0000
+DTW không F0,A,tts_m1_p1,100,100,1.0000
+DTW không F0,A,tts_m1_p2,100,100,1.0000
+DTW không F0,A,tts_m1_p3,100,98,0.9800
+DTW không F0,A,tts_m1_p4,100,100,1.0000
+DTW không F0,B,TẤT CẢ,1000,487,0.4870
+DTW không F0,B,tts_f1_p0,100,62,0.6200
+DTW không F0,B,tts_f1_p1,100,46,0.4600
+DTW không F0,B,tts_f1_p2,100,62,0.6200
+DTW không F0,B,tts_f1_p3,100,20,0.2000
+DTW không F0,B,tts_f1_p4,100,65,0.6500
+DTW không F0,B,tts_m1_p0,100,46,0.4600
+DTW không F0,B,tts_m1_p1,100,72,0.7200
+DTW không F0,B,tts_m1_p2,100,26,0.2600
+DTW không F0,B,tts_m1_p3,100,70,0.7000
+DTW không F0,B,tts_m1_p4,100,18,0.1800

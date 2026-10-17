@@ -1,0 +1,475 @@
+﻿method,scenario,word,predicted,count
+SVM,B,trai,bat,24
+DTW + F0,B,bay,chay,21
+DTW + F0,B,trai,ba,21
+DTW không F0,B,xuong,bon,21
+DTW không F0,B,trai,ba,21
+DTW + F0,B,nam,chay,20
+DTW không F0,B,nam,chay,20
+DTW + F0,B,chay,len,19
+DTW + F0,B,len,chay,18
+DTW + F0,B,tam,dong,18
+DTW + F0,B,xuong,bon,18
+DTW không F0,B,len,chay,18
+Random Forest,B,xuong,bon,18
+Random Forest,B,sau,tat,17
+Random Forest,B,tat,bat,17
+SVM,B,khong,bat,16
+SVM,B,xuong,dong,16
+DTW không F0,B,chay,len,15
+SVM,B,hai,bat,15
+SVM,B,nam,len,15
+Random Forest,B,nam,mo,15
+DTW không F0,B,bay,chay,14
+SVM,B,khong,mot,14
+SVM,B,sau,tat,14
+SVM,B,len,dung,13
+SVM,B,nam,mo,13
+Random Forest,B,ba,trai,13
+Random Forest,B,chin,bon,13
+Random Forest,B,hai,nam,13
+Random Forest,B,trai,bat,13
+Random Forest,B,trai,ba,13
+DTW + F0,B,ba,chay,12
+DTW + F0,B,chin,bon,12
+DTW + F0,B,tat,ba,12
+SVM,B,tat,bat,12
+SVM,B,xuong,chin,12
+Random Forest,B,dong,xuong,12
+Random Forest,B,khong,mot,12
+DTW + F0,B,bay,tam,11
+DTW không F0,B,chin,bon,11
+DTW không F0,B,dung,bon,11
+SVM,B,ba,dong,11
+SVM,B,bay,chay,11
+SVM,B,bon,xuong,11
+SVM,B,hai,ba,11
+SVM,B,trai,tat,11
+Random Forest,B,bon,xuong,11
+Random Forest,B,xuong,chin,11
+DTW + F0,B,dung,len,10
+DTW + F0,B,dung,chay,10
+DTW + F0,B,trai,chay,10
+DTW + F0,B,khong,ba,10
+DTW không F0,B,tam,dong,10
+DTW không F0,B,tat,ba,10
+SVM,B,bon,dong,10
+SVM,B,chin,dung,10
+SVM,B,dong,xuong,10
+SVM,B,sau,mo,10
+SVM,B,tam,tat,10
+Random Forest,B,chay,mot,10
+Random Forest,B,chay,len,10
+DTW + F0,B,hai,ba,9
+DTW không F0,B,dung,len,9
+DTW không F0,B,bay,len,9
+DTW không F0,B,dong,ba,9
+DTW không F0,B,hai,ba,9
+DTW không F0,B,nam,mo,9
+SVM,B,nam,ba,9
+SVM,B,xuong,bat,9
+Random Forest,B,ba,mo,9
+Random Forest,B,bay,len,9
+Random Forest,B,bay,chay,9
+Random Forest,B,dong,bon,9
+Random Forest,B,tam,mo,9
+DTW + F0,B,bat,tat,8
+DTW + F0,B,phai,tam,8
+DTW + F0,B,sau,tat,8
+DTW + F0,B,sau,dong,8
+DTW + F0,B,xuong,dong,8
+DTW + F0,B,nam,ba,8
+DTW không F0,B,bat,tat,8
+DTW không F0,B,phai,hai,8
+DTW không F0,B,sau,dong,8
+DTW không F0,B,trai,chay,8
+DTW không F0,B,len,dung,8
+DTW không F0,B,sau,mo,8
+SVM,B,ba,bat,8
+SVM,B,bay,len,8
+SVM,B,sau,khong,8
+SVM,B,tam,dong,8
+SVM,B,tam,mo,8
+SVM,B,trai,ba,8
+SVM,B,xuong,bon,8
+Random Forest,B,bay,dong,8
+Random Forest,B,hai,trai,8
+Random Forest,B,len,mot,8
+Random Forest,B,mot,len,8
+Random Forest,B,tam,sau,8
+DTW + F0,B,ba,trai,7
+DTW + F0,B,dong,xuong,7
+DTW + F0,B,phai,hai,7
+DTW + F0,B,bay,dong,7
+DTW + F0,B,hai,mot,7
+DTW không F0,B,hai,mot,7
+DTW không F0,B,khong,ba,7
+DTW không F0,B,tam,ba,7
+SVM,B,ba,mo,7
+SVM,B,chay,mot,7
+SVM,B,chay,bay,7
+SVM,B,dung,len,7
+SVM,B,hai,tat,7
+SVM,B,mo,bat,7
+SVM,B,mo,dong,7
+SVM,B,mot,bat,7
+SVM,B,nam,tat,7
+SVM,B,phai,bay,7
+Random Forest,B,dung,mot,7
+Random Forest,B,hai,bat,7
+Random Forest,B,hai,ba,7
+Random Forest,B,len,dung,7
+Random Forest,B,mo,khong,7
+Random Forest,B,mo,tat,7
+Random Forest,B,sau,bay,7
+DTW + F0,B,bon,chin,6
+DTW + F0,B,dong,tam,6
+DTW + F0,B,phai,trai,6
+DTW không F0,B,ba,chay,6
+DTW không F0,B,ba,trai,6
+DTW không F0,B,bat,trai,6
+DTW không F0,B,chin,dung,6
+DTW không F0,B,sau,khong,6
+DTW không F0,B,tam,chay,6
+DTW không F0,B,sau,ba,6
+SVM,B,ba,trai,6
+SVM,B,hai,khong,6
+SVM,B,len,mot,6
+SVM,B,len,bay,6
+SVM,B,mo,khong,6
+SVM,B,sau,bat,6
+Random Forest,B,bay,sau,6
+Random Forest,B,chay,nam,6
+Random Forest,B,hai,khong,6
+Random Forest,B,tam,dong,6
+Random Forest,B,xuong,dong,6
+DTW + F0,B,bon,xuong,5
+DTW + F0,B,khong,tat,5
+DTW + F0,B,tam,chay,5
+DTW + F0,B,xuong,chin,5
+DTW + F0,B,bat,mot,5
+DTW + F0,B,mo,ba,5
+DTW + F0,B,mot,len,5
+DTW + F0,B,nam,mo,5
+DTW + F0,B,sau,tam,5
+DTW không F0,B,ba,dong,5
+DTW không F0,B,chin,xuong,5
+DTW không F0,B,dong,xuong,5
+DTW không F0,B,phai,bay,5
+DTW không F0,B,phai,tam,5
+DTW không F0,B,sau,tat,5
+DTW không F0,B,sau,trai,5
+DTW không F0,B,mo,ba,5
+SVM,B,bat,tat,5
+SVM,B,sau,chay,5
+Random Forest,B,ba,bat,5
+Random Forest,B,khong,bat,5
+Random Forest,B,nam,len,5
+Random Forest,B,sau,mo,5
+DTW + F0,B,bay,phai,4
+DTW + F0,B,mot,khong,4
+DTW + F0,B,phai,chay,4
+DTW + F0,B,bat,ba,4
+DTW + F0,B,khong,mot,4
+DTW + F0,B,len,dung,4
+DTW + F0,B,tat,bat,4
+DTW không F0,B,dong,chay,4
+DTW không F0,B,khong,chay,4
+DTW không F0,B,len,bon,4
+DTW không F0,B,mot,khong,4
+DTW không F0,B,phai,trai,4
+DTW không F0,B,ba,mo,4
+DTW không F0,B,bay,ba,4
+DTW không F0,B,bon,dung,4
+DTW không F0,B,khong,mot,4
+DTW không F0,B,mot,len,4
+DTW không F0,B,phai,mo,4
+DTW không F0,B,tat,bat,4
+SVM,B,ba,tat,4
+SVM,B,chay,bat,4
+SVM,B,dong,bat,4
+SVM,B,dong,mo,4
+SVM,B,khong,mo,4
+SVM,B,mo,mot,4
+Random Forest,B,bat,mo,4
+Random Forest,B,bay,khong,4
+Random Forest,B,dung,len,4
+Random Forest,B,mot,bat,4
+Random Forest,B,nam,hai,4
+Random Forest,B,nam,trai,4
+Random Forest,B,trai,tat,4
+DTW + F0,B,ba,tat,3
+DTW + F0,B,hai,khong,3
+DTW + F0,B,khong,chay,3
+DTW + F0,B,nam,len,3
+DTW + F0,B,sau,khong,3
+DTW + F0,B,sau,trai,3
+DTW + F0,B,sau,phai,3
+DTW + F0,B,ba,mo,3
+DTW + F0,B,sau,ba,3
+DTW + F0,B,sau,mo,3
+DTW + F0,B,trai,nam,3
+DTW không F0,B,bon,xuong,3
+DTW không F0,B,dong,tam,3
+DTW không F0,B,dong,bon,3
+DTW không F0,B,dung,chay,3
+DTW không F0,B,hai,khong,3
+DTW không F0,B,mo,dong,3
+DTW không F0,B,xuong,khong,3
+DTW không F0,B,bat,mot,3
+DTW không F0,B,nam,ba,3
+DTW không F0,B,phai,ba,3
+DTW không F0,B,tat,tam,3
+DTW không F0,B,trai,nam,3
+SVM,B,ba,len,3
+SVM,B,bay,dong,3
+SVM,B,bon,chin,3
+SVM,B,chay,dung,3
+SVM,B,dung,mot,3
+SVM,B,hai,dong,3
+SVM,B,len,ba,3
+SVM,B,mot,len,3
+SVM,B,nam,bat,3
+SVM,B,phai,dong,3
+SVM,B,sau,tam,3
+SVM,B,tam,bat,3
+Random Forest,A,khong,mo,3
+Random Forest,B,ba,khong,3
+Random Forest,B,chay,khong,3
+Random Forest,B,chay,bay,3
+Random Forest,B,chay,dung,3
+Random Forest,B,khong,mo,3
+Random Forest,B,len,khong,3
+Random Forest,B,mo,ba,3
+Random Forest,B,mot,khong,3
+Random Forest,B,nam,bay,3
+Random Forest,B,phai,dong,3
+Random Forest,B,sau,dong,3
+Random Forest,B,trai,sau,3
+DTW + F0,A,trai,phai,2
+DTW + F0,B,bat,trai,2
+DTW + F0,B,chin,xuong,2
+DTW + F0,B,hai,tat,2
+DTW + F0,B,hai,chay,2
+DTW + F0,B,mo,chay,2
+DTW + F0,B,mo,trai,2
+DTW + F0,B,tam,tat,2
+DTW + F0,B,trai,tat,2
+DTW + F0,B,xuong,chay,2
+DTW + F0,B,dong,phai,2
+DTW + F0,B,len,nam,2
+DTW + F0,B,phai,dong,2
+DTW + F0,B,phai,ba,2
+DTW không F0,B,ba,tat,2
+DTW không F0,B,ba,tam,2
+DTW không F0,B,ba,bon,2
+DTW không F0,B,chin,chay,2
+DTW không F0,B,hai,tat,2
+DTW không F0,B,khong,tat,2
+DTW không F0,B,khong,xuong,2
+DTW không F0,B,mo,trai,2
+DTW không F0,B,nam,len,2
+DTW không F0,B,sau,chay,2
+DTW không F0,B,tam,tat,2
+DTW không F0,B,trai,tat,2
+DTW không F0,B,trai,tam,2
+DTW không F0,B,xuong,dong,2
+DTW không F0,B,bon,len,2
+DTW không F0,B,khong,bon,2
+DTW không F0,B,tam,phai,2
+DTW không F0,B,tam,mo,2
+DTW không F0,B,xuong,len,2
+SVM,B,bay,dung,2
+SVM,B,bay,mo,2
+SVM,B,dong,bon,2
+SVM,B,dong,ba,2
+SVM,B,hai,chay,2
+SVM,B,hai,mot,2
+SVM,B,khong,tat,2
+SVM,B,len,nam,2
+SVM,B,nam,chin,2
+Random Forest,A,dong,phai,2
+Random Forest,A,trai,hai,2
+Random Forest,B,ba,tat,2
+Random Forest,B,ba,chay,2
+Random Forest,B,ba,len,2
+Random Forest,B,bon,chin,2
+Random Forest,B,dong,tam,2
+Random Forest,B,dong,sau,2
+Random Forest,B,hai,len,2
+Random Forest,B,khong,tat,2
+Random Forest,B,len,bay,2
+Random Forest,B,len,nam,2
+Random Forest,B,len,mo,2
+Random Forest,B,mo,trai,2
+Random Forest,B,nam,chay,2
+Random Forest,B,nam,khong,2
+Random Forest,B,phai,trai,2
+Random Forest,B,phai,bay,2
+Random Forest,B,sau,khong,2
+Random Forest,B,sau,tam,2
+Random Forest,B,tam,xuong,2
+Random Forest,B,tam,phai,2
+Random Forest,B,tam,chay,2
+Random Forest,B,tam,ba,2
+DTW + F0,A,bat,khong,1
+DTW + F0,A,dong,tam,1
+DTW + F0,A,dung,len,1
+DTW + F0,A,khong,mot,1
+DTW + F0,A,xuong,bon,1
+DTW + F0,B,ba,len,1
+DTW + F0,B,ba,phai,1
+DTW + F0,B,ba,hai,1
+DTW + F0,B,bon,chay,1
+DTW + F0,B,chin,chay,1
+DTW + F0,B,dong,bon,1
+DTW + F0,B,len,mot,1
+DTW + F0,B,len,trai,1
+DTW + F0,B,mo,mot,1
+DTW + F0,B,mo,phai,1
+DTW + F0,B,mo,len,1
+DTW + F0,B,mo,khong,1
+DTW + F0,B,mot,hai,1
+DTW + F0,B,nam,trai,1
+DTW + F0,B,sau,chin,1
+DTW + F0,B,sau,xuong,1
+DTW + F0,B,trai,phai,1
+DTW + F0,B,xuong,khong,1
+DTW + F0,B,bat,mo,1
+DTW + F0,B,bay,bon,1
+DTW + F0,B,bon,dong,1
+DTW + F0,B,bon,tam,1
+DTW + F0,B,khong,nam,1
+DTW + F0,B,khong,dung,1
+DTW + F0,B,sau,bay,1
+DTW + F0,B,tat,mot,1
+DTW + F0,B,trai,tam,1
+DTW không F0,A,bat,khong,1
+DTW không F0,A,khong,mot,1
+DTW không F0,A,nam,tam,1
+DTW không F0,A,trai,phai,1
+DTW không F0,A,xuong,bon,1
+DTW không F0,B,ba,chin,1
+DTW không F0,B,ba,hai,1
+DTW không F0,B,bay,dong,1
+DTW không F0,B,bon,chin,1
+DTW không F0,B,bon,chay,1
+DTW không F0,B,bon,khong,1
+DTW không F0,B,hai,chay,1
+DTW không F0,B,khong,tam,1
+DTW không F0,B,len,xuong,1
+DTW không F0,B,len,mot,1
+DTW không F0,B,mo,mot,1
+DTW không F0,B,mo,chay,1
+DTW không F0,B,mo,len,1
+DTW không F0,B,mot,bon,1
+DTW không F0,B,nam,xuong,1
+DTW không F0,B,nam,chin,1
+DTW không F0,B,phai,chay,1
+DTW không F0,B,sau,phai,1
+DTW không F0,B,sau,tam,1
+DTW không F0,B,sau,xuong,1
+DTW không F0,B,tam,trai,1
+DTW không F0,B,tam,bon,1
+DTW không F0,B,trai,dong,1
+DTW không F0,B,trai,bat,1
+DTW không F0,B,xuong,chin,1
+DTW không F0,B,xuong,chay,1
+DTW không F0,B,bat,mo,1
+DTW không F0,B,bat,bon,1
+DTW không F0,B,bat,ba,1
+DTW không F0,B,bay,mo,1
+DTW không F0,B,bay,phai,1
+DTW không F0,B,dong,hai,1
+DTW không F0,B,dong,dung,1
+DTW không F0,B,dung,chin,1
+DTW không F0,B,hai,phai,1
+DTW không F0,B,khong,mo,1
+DTW không F0,B,khong,hai,1
+DTW không F0,B,khong,dung,1
+DTW không F0,B,len,nam,1
+DTW không F0,B,nam,dong,1
+DTW không F0,B,nam,mot,1
+DTW không F0,B,tat,mot,1
+DTW không F0,B,xuong,mot,1
+DTW không F0,B,xuong,dung,1
+SVM,A,ba,hai,1
+SVM,A,dong,sau,1
+SVM,A,dong,ba,1
+SVM,A,khong,bat,1
+SVM,A,khong,mo,1
+SVM,A,nam,hai,1
+SVM,A,phai,bay,1
+SVM,A,trai,ba,1
+SVM,A,xuong,bon,1
+SVM,B,ba,hai,1
+SVM,B,bat,khong,1
+SVM,B,bay,bat,1
+SVM,B,chin,xuong,1
+SVM,B,dong,tam,1
+SVM,B,dung,bat,1
+SVM,B,hai,chin,1
+SVM,B,hai,trai,1
+SVM,B,khong,dong,1
+SVM,B,len,dong,1
+SVM,B,len,bat,1
+SVM,B,len,chay,1
+SVM,B,mo,len,1
+SVM,B,mot,khong,1
+SVM,B,mot,dung,1
+SVM,B,mot,chay,1
+SVM,B,nam,chay,1
+SVM,B,phai,tat,1
+SVM,B,phai,mo,1
+SVM,B,tam,trai,1
+SVM,B,tam,chay,1
+SVM,B,trai,chay,1
+SVM,B,xuong,tam,1
+Random Forest,A,ba,nam,1
+Random Forest,A,bay,phai,1
+Random Forest,A,hai,trai,1
+Random Forest,A,nam,hai,1
+Random Forest,A,phai,tam,1
+Random Forest,A,sau,tat,1
+Random Forest,B,ba,nam,1
+Random Forest,B,ba,hai,1
+Random Forest,B,bat,trai,1
+Random Forest,B,bat,mot,1
+Random Forest,B,bat,hai,1
+Random Forest,B,bat,ba,1
+Random Forest,B,bay,tam,1
+Random Forest,B,bay,mo,1
+Random Forest,B,chay,sau,1
+Random Forest,B,chin,dong,1
+Random Forest,B,dong,chin,1
+Random Forest,B,dong,mo,1
+Random Forest,B,dong,phai,1
+Random Forest,B,dung,chay,1
+Random Forest,B,hai,chay,1
+Random Forest,B,khong,len,1
+Random Forest,B,khong,dung,1
+Random Forest,B,len,chay,1
+Random Forest,B,mo,nam,1
+Random Forest,B,mo,mot,1
+Random Forest,B,mo,len,1
+Random Forest,B,mot,dung,1
+Random Forest,B,mot,chay,1
+Random Forest,B,nam,mot,1
+Random Forest,B,nam,phai,1
+Random Forest,B,phai,mo,1
+Random Forest,B,phai,tat,1
+Random Forest,B,sau,chay,1
+Random Forest,B,tam,chin,1
+Random Forest,B,tam,bon,1
+Random Forest,B,tam,tat,1
+Random Forest,B,tat,chay,1
+Random Forest,B,tat,sau,1
+Random Forest,B,tat,mo,1
+Random Forest,B,trai,mot,1
+Random Forest,B,trai,mo,1
+Random Forest,B,trai,nam,1
+Random Forest,B,trai,chay,1
+Random Forest,B,xuong,bat,1
+Random Forest,B,xuong,mo,1
+Random Forest,B,xuong,khong,1
+Random Forest,B,xuong,len,1

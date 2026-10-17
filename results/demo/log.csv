@@ -1,0 +1,2 @@
+﻿time,file,predicted,text,confidence,top2,top3,nearest_file,excluded_speakers,elapsed_ms,figure
+2026-10-17T15:39:46,D:\New folder\thuthapykien\speech-to-text\data\raw\chay_tts_f1_p4_02.wav,chay,chạy,0.799,len,dung,len_tts_m1_p0_03,tts_f1 tts_f1_p0 tts_f1_p1 tts_f1_p2 tts_f1_p3 tts_f1_p4,35,chay_tts_f1_p4_02_20261017-153946.png

@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+librosa
+soundfile
+pyyaml
+scikit-learn
+matplotlib
+sounddevice
+edge-tts
+streamlit
+pytest
